@@ -1,0 +1,30 @@
+# github.com/antzucaro/matchr v0.0.0-20210222213004-b04723ef80f0
+## explicit; go 1.13
+github.com/antzucaro/matchr
+# github.com/cpuguy83/go-md2man/v2 v2.0.1
+## explicit; go 1.11
+github.com/cpuguy83/go-md2man/v2/md2man
+# github.com/go-playground/locales v0.14.0
+## explicit; go 1.13
+github.com/go-playground/locales
+github.com/go-playground/locales/currency
+# github.com/go-playground/universal-translator v0.18.0
+## explicit; go 1.13
+github.com/go-playground/universal-translator
+# github.com/gosnmp/gosnmp v1.32.0
+## explicit; go 1.13
+github.com/gosnmp/gosnmp
+# github.com/leodido/go-urn v1.2.1
+## explicit; go 1.13
+github.com/leodido/go-urn
+# github.com/russross/blackfriday/v2 v2.1.0
+## explicit
+github.com/russross/blackfriday/v2
+# github.com/urfave/cli/v2 v2.8.0
+## explicit; go 1.18
+github.com/urfave/cli/v2
+# gopkg.in/go-playground/assert.v1 v1.2.1
+## explicit
+# gopkg.in/go-playground/validator.v9 v9.31.0
+## explicit
+gopkg.in/go-playground/validator.v9
