@@ -1,0 +1,2 @@
+# WildcoreDMS discovery scanner
+
