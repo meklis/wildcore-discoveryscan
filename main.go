@@ -231,6 +231,7 @@ func startScan(ips []string) {
 		case resp := <-processed:
 			countReceivedFinished++
 			resp = strings.Replace(resp, "\n", " ", -1)
+			resp = strings.Replace(resp, "\r", "", -1)
 			if resp != "" {
 				fmt.Println(resp)
 			}
